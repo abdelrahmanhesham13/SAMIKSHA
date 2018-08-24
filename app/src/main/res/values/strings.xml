@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SAMIKSHA</string>
+    <string name="banner1">ca-app-pub-4475890728309733/8417661595</string>
+    <string name="banner2">ca-app-pub-4475890728309733/6477893964</string>
+    <string name="banner3">ca-app-pub-4475890728309733/6512664932</string>
+    <string name="banner4">ca-app-pub-4475890728309733/1465240435</string>
+    <string name="banner5">ca-app-pub-4475890728309733/9890525369</string>
+    <string name="interstitial1"></string>
+    <string name="interstitial2"></string>
+</resources>
